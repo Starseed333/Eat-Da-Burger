@@ -7,9 +7,9 @@ A full stack application with persistent data using MySQL.  The app presents you
 
 
 
-### Friend-Finder Demo
+### Eat-Da-Burger Demo
 
-* ##### Visit the application here. 
+* ##### Visit the application here. https://floating-mountain-33294.herokuapp.com/burgers
 
 
 
